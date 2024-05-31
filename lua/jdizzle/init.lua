@@ -1,8 +1,6 @@
 require("jdizzle.remap")
 require("jdizzle.set")
 
-
-
 -- init.lua
 
 -- LSP settings
